@@ -58,4 +58,4 @@
 ---
 ### :fire: My stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaskovo1&border_radius=2)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaskovo1&border_radius=2&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
