@@ -1,3 +1,12 @@
+<div id="greeting" align="center">
+  <h1>
+    hello world 
+    <img src="https://media.giphy.com/media/X6hiFJjvTDAAw/giphy.gif" width="27px"/> 
+  </h1>
+</div>
+
+<br>
+
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/6b/cd/f2/6bcdf2799bc8300f6684fe9b432c2c5b.gif" width="400"/>
 </div>
@@ -13,35 +22,13 @@
   </a>
 </div>
 
+<h1></h1>
 <br>
 
-<div id="greeting" align="center">
-  <h1>
-    hello world 
-    <img src="https://media.giphy.com/media/X6hiFJjvTDAAw/giphy.gif" width="27px"/> 
-  </h1>
+
+
+<div id="banner" align="center">
+  <img src="https://64.media.tumblr.com/de350631756fc001032cb6cbbf99df56/tumblr_nu6d8xYeOx1s5oglco1_640.gifv" width="500"/>
 </div>
 
-<br>
 
-<table frame="void" border="0" align="center">
-   <tr>
-    <td valign="top" align="left" width="50%">
-         <div id="About">
-           <h2>
-             About me:
-           </h2>
-           <ul>
-            <li>I'm a Back End Python Developer and I create APIs and maintain them</li>
-            <li>I love coding and solve some logic tasks</li>
-            <li>In my free time I learn design aspects</li>
-           </ul>
-         </div>
-       </td>
-       <td width="50%">
-         <div id="pic on the right" align="center">
-           <img src="https://i.pinimg.com/originals/e1/55/d9/e155d9defdb16a91d0b39960877d6c58.jpg" width="270"/>
-         </div>
-       </td>
-     </tr>
-</table>
