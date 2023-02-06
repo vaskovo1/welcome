@@ -1,7 +1,6 @@
 <div id="greeting" align="center">
   <h1>
-    Hello world 
-    <img src="https://media.giphy.com/media/X6hiFJjvTDAAw/giphy.gif" width="27px"/> 
+    Hello world!
   </h1>
 </div>
 
@@ -31,13 +30,13 @@
   <img src="https://64.media.tumblr.com/de350631756fc001032cb6cbbf99df56/tumblr_nu6d8xYeOx1s5oglco1_640.gifv" width="500"/>
 </div>
 
-### :man_technologist: A few lines about me :
+### :man_technologist: A few lines about me:
 
-- I'm a Back End Python Developer and I create APIs and maintain them
-- I love coding and solve some logic tasks
-- In my free time I learn design aspects 
+- :computer: I'm a Back End Python Developer and I create APIs and maintain them
+- :keyboard: I love coding and solving some logic tasks
+- :bank: In my free time I learn design aspects 
 
-### :wrench: Languages and tools
+### :wrench: Languages and tools:
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -53,5 +52,10 @@
   <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pycharm/pycharm-plain.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/raspberrypi/raspberrypi-original.svg" title="Raspberrypi" alt="Raspberrypi" width="40" height="40"/>&nbsp;
 </div>
 
+---
+### :fire: My stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaskovo1&border_radius=2)](https://github.com/anuraghazra/github-readme-stats)
